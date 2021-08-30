@@ -1,2 +1,20 @@
 # WhiXardHub
 My HUB script for roblox
+
+## Why did i made this
+
+This is just a toolbox with typical things that i do when i cheat on Roblox, it contains some stuff for btools and some Universal and Game-specific scripts
+
+## How to load it
+
+**Tested with Synapse X**
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bildcraft1/WhiXardHub/main/WhiXard-Hub.lua",true))()
+```
+
+## Credits
+Code/UI design = WhiXard
+UI Lib = Venyx UI Lib
+
+Some stuff is grabbed from InfiniteYield
