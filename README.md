@@ -15,6 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Bildcraft1/WhiXardHub
 
 ## Credits
 Code/UI design = WhiXard
+
 UI Lib = Venyx UI Lib
 
 Some stuff is grabbed from InfiniteYield
