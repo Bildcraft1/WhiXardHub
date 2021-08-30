@@ -36,6 +36,14 @@ section1:addButton(
 )
 
 section1:addButton(
+    "Give delete tool (useful for tycoons)",
+    function()
+        local tool1 = Instance.new("HopperBin", game.Players.LocalPlayer.Backpack)
+        tool1.BinType = "Hammer"
+    end
+)
+
+section1:addButton(
     "Rejoin Place",
     function()
         local ts = game:GetService("TeleportService")
