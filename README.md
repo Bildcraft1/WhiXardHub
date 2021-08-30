@@ -1,5 +1,5 @@
 # WhiXardHub
-My HUB script for roblox
+My HUB script for Roblox
 
 ## Why did i made this
 
