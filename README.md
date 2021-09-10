@@ -1,13 +1,13 @@
 # WhiXardHub
 My HUB script for Roblox
 
-## Why did i made this
+## Why did i made thisa
 
 This is just a toolbox with typical things that i do when i cheat on Roblox, it contains some stuff for btools and some Universal and Game-specific scripts
 
 ## How to load it
 
-**Tested with Synapse X**
+**Tested with Synapse X and KRNL**
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Bildcraft1/WhiXardHub/main/WhiXard-Hub.lua",true))()
