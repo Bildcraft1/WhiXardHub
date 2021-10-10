@@ -7,7 +7,7 @@ This is just a toolbox with typical things that i do when i cheat on Roblox, it 
 
 ## How to load it
 
-**Tested with Synapse X and KRNL**
+**Tested with Synapse X, Script-Ware and KRNL**
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Bildcraft1/WhiXardHub/main/WhiXard-Hub.lua",true))()
