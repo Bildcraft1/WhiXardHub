@@ -121,6 +121,13 @@ scriptsui:addButton(
 )
 
 scriptsui:addButton(
+    "DomainX",
+    function()
+        loadstring(game:HttpGet('https://shlex.dev/release/domainx/latest.lua',true))()
+    end
+)
+
+scriptsui:addButton(
     "EzHub",
     function()
         loadstring(
