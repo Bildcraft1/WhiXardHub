@@ -1,7 +1,7 @@
 # WhiXardHub
 My HUB script for Roblox
 
-## Why did i made thisa
+## Why did i made this
 
 This is just a toolbox with typical things that i do when i cheat on Roblox, it contains some stuff for btools and some Universal and Game-specific scripts
 
